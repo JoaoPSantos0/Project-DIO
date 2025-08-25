@@ -1,0 +1,14 @@
+C:\Users\joaop\C-Sharp\bin\Debug\net9.0\C-Sharp.exe
+C:\Users\joaop\C-Sharp\bin\Debug\net9.0\C-Sharp.deps.json
+C:\Users\joaop\C-Sharp\bin\Debug\net9.0\C-Sharp.runtimeconfig.json
+C:\Users\joaop\C-Sharp\bin\Debug\net9.0\C-Sharp.dll
+C:\Users\joaop\C-Sharp\bin\Debug\net9.0\C-Sharp.pdb
+C:\Users\joaop\C-Sharp\obj\Debug\net9.0\C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\C-Sharp\obj\Debug\net9.0\C-Sharp.AssemblyInfoInputs.cache
+C:\Users\joaop\C-Sharp\obj\Debug\net9.0\C-Sharp.AssemblyInfo.cs
+C:\Users\joaop\C-Sharp\obj\Debug\net9.0\C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\joaop\C-Sharp\obj\Debug\net9.0\C-Sharp.dll
+C:\Users\joaop\C-Sharp\obj\Debug\net9.0\refint\C-Sharp.dll
+C:\Users\joaop\C-Sharp\obj\Debug\net9.0\C-Sharp.pdb
+C:\Users\joaop\C-Sharp\obj\Debug\net9.0\C-Sharp.genruntimeconfig.cache
+C:\Users\joaop\C-Sharp\obj\Debug\net9.0\ref\C-Sharp.dll
